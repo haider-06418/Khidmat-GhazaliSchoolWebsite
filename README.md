@@ -38,7 +38,7 @@ The project aimed to develop a fully functional website for Ghazali Grammar Scho
 - HTML/CSS
 - JavaScript
 - Bootstrap for responsive design
-- Backend integration with email servers
+- Formspree (backend email service)
 
 ## Setup and Installation
 
