@@ -42,9 +42,9 @@ The project aimed to develop a fully functional website for Ghazali Grammar Scho
 
 ## Setup and Installation
 
-_Instructions on how to clone, setup, and run the project locally._
+_Instructions on how to clone, setup and run the project locally._
 
 ```bash
-git clone [https://github.com/haider-06418/Khidmat-GhazaliSchoolWebsite]
-cd [Khidmat-GhazaliSchoolWebsite]
+git clone https://github.com/haider-06418/Khidmat-GhazaliSchoolWebsite
+cd Khidmat-GhazaliSchoolWebsite
 ```
